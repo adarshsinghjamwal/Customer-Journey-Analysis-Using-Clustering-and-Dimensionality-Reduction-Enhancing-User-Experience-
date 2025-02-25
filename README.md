@@ -1,0 +1,2 @@
+# Customer-Journey-Analysis-Using-Clustering-and-Dimensionality-Reduction-Enhancing-User-Experience-
+This project analyzes customer behavior patterns using K-Means Clustering and UMAP Dimensionality Reduction to segment users based on their interaction with travel-related platforms. It helps identify high-value customers, casual browsers, and frequent travelers for personalized marketing strategies.
